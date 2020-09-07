@@ -42,8 +42,7 @@ footer::after {
 /* Sistema de columnas*/
 
 [class^=col-] {
-	width: 100%;
-	margin-top: 1em;
+	width: 100%;	
 }
 
 [class^=col-]:first-child {
@@ -115,7 +114,7 @@ p:last-of-type {
 	font-size: 2.5rem;
 	margin-bottom: 1.5em;
 	font-weight: 900;
-	margin-top: 1em;
+	margin-top: 0em;
 }
 
 .title span {
@@ -405,6 +404,14 @@ nav a:focus {
 footer {
 	background: #232323;
 	color: #fff;
-	text-align: left;
+	text-align: center;
 	padding: 5em 0;
+}
+
+.firmaDigital{
+	margin-top: 50px;
+}
+
+.footerP{
+	margin-bottom: 50px;
 }
