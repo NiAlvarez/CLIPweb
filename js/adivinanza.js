@@ -1,7 +1,7 @@
 let letsPlay = () => {
 
-    let trys = 4;
     const correctAnswer = 'Ada Lovelace';
+    let trys = 4;
     let correct = false;
     let answer;
     
@@ -22,4 +22,3 @@ let letsPlay = () => {
             }
         }        
     }
-

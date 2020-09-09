@@ -89,10 +89,6 @@ footer::after {
 	}
 }
 
-
-
-
-
 /* typografía */
 
 h1 {
@@ -197,7 +193,6 @@ p:last-of-type {
 .parallax--box {
 	transition: initial;
 }
-
 
 
 /* header
@@ -310,7 +305,7 @@ nav a:focus {
 	}
 
 	.home-about {
-		background-image: url(../img/yo.jpg);
+		background-image: url(../img/ladri.jpeg);
 		background-size: cover;
 		padding-bottom: 10em;
 	}

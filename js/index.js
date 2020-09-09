@@ -2,7 +2,7 @@ $(window).scroll(function() {
   parallax();
 })
 
-function parallax() {
+let parallax = () => {
 
   var wScroll = $(window).scrollTop()
 
